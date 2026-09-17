@@ -1,4 +1,4 @@
-# 🔐 Tela de Login Interativa
+# # 💻 Tela de Login Interativa
 
 Uma interface de tela de login e cadastro moderna, acessível e totalmente responsiva, desenvolvida com tecnologias web fundamentais (HTML5, CSS3 e JavaScript). Este projeto traz foco na usabilidade, experiência do usuário (UI/UX) e boas práticas de código front-end.
 
@@ -6,18 +6,18 @@ Uma interface de tela de login e cadastro moderna, acessível e totalmente respo
 
 ## 📑 Sumário
 
-- [📌 Visão Geral e Recursos](#-visão-geral-e-recursos)
-- [👤 O que os Usuários Podem Fazer](#-o-que-os-usuários-podem-fazer)
-- [⌨️ Atalhos de Teclado e Acessibilidade](#️-atalhos-de-teclado-e-acessibilidade)
-- [🛠️ Como Construí](#️-como-construí)
-- [💡 O que Aprendi](#-o-que-aprendi)
-- [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
-- [🔮 O que Pode Ser Melhorado](#-o-que-pode-ser-melhorado)
-- [👩‍💻 Autora](#-autora)
+- [ Visão Geral e Recursos](#-visão-geral-e-recursos)
+- [ O que os Usuários Podem Fazer](#-o-que-os-usuários-podem-fazer)
+- [ Atalhos de Teclado e Acessibilidade](#️-atalhos-de-teclado-e-acessibilidade)
+- [ Como Construí](#️-como-construí)
+- [ O que Aprendi](#-o-que-aprendi)
+- [ Como Executar o Projeto](#-como-executar-o-projeto)
+- [ O que Pode Ser Melhorado](#-o-que-pode-ser-melhorado)
+- [ Autora](#-autora)
 
 ---
 
-## 📌 Visão Geral e Recursos
+# # Visão Geral e Recursos
 
 - **Design Moderno:** Interface limpa com paleta de cores harmoniosa, sombras suaves e efeitos de foco.
 - **Totalmente Responsivo:** Layout fluido que se adapta perfeitamente a dispositivos móveis, tablets e telas de computador.
@@ -26,7 +26,7 @@ Uma interface de tela de login e cadastro moderna, acessível e totalmente respo
 
 ---
 
-## 👤 O que os Usuários Podem Fazer
+## 🙅‍♂️ O que os Usuários Podem Fazer
 
 1. **Inserir Credenciais:** Digitar e-mail/nome de usuário e senha nos campos correspondentes.
 2. **Alternar Visibilidade da Senha:** Clicar no ícone de "olho" para exibir ou ocultar os caracteres da senha.
@@ -69,7 +69,7 @@ A estrutura do projeto foi desenvolvida utilizando exclusivamente web standards 
 
 ---
 
-## 💡 O que Aprendi
+## 📒 O que Aprendi
 
 Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 
@@ -80,7 +80,7 @@ Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## ☝️ Como Executar o Projeto
 
 Não é necessário instalar gerenciadores de pacotes (como npm/yarn) ou configurar servidores locais complexos.
 
